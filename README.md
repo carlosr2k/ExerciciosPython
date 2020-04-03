@@ -4,15 +4,15 @@ Todos os exercicios foram feitos durante aulas.
 
 Lista dos exercicios por categoria: 
 
-1 Estrutura Sequencial
-2 Estruturas Decisao
-3 Estruturas Repeticao
-4 Listas
-5 Funçoes
-6 Strings
-7 Arquivos
-8 Classes
-9 Curso Terra
+1 Estrutura Sequencial   
+2 Estruturas Decisao   
+3 Estruturas Repeticao   
+4 Listas  
+5 Funçoes  
+6 Strings  
+7 Arquivos  
+8 Classes  
+9 Curso Terra   
 
 ## Descrição de todos
 
